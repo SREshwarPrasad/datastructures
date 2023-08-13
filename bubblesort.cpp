@@ -1,4 +1,4 @@
-//namo narayana
+
 //Sorting //Bubble
 
 #include<iostream>
