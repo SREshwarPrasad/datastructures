@@ -1,5 +1,4 @@
-
-//Sorting //Bubble
+//Sorting //Bubble Sort
 
 #include<iostream>
 #define max 100
