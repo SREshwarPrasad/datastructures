@@ -71,10 +71,8 @@ cout<<endl;
 		}
 		print();
 		cout<<"\nDo you want to continue (1 or 0)? ";
-	
-		cin>>c;
+		cin>>c; //LOOP RESUMES AFTER PUSH OR POP OPERATION 
 	}	
-	
 	
 	return 0;
 }
