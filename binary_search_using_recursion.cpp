@@ -1,6 +1,6 @@
 // BINARY SEARCH USING RECURSION
 #include<iostream>
-#define max 100 //for aethetic declaration purpose only 
+#define max 100 //for aesthetic declaration purpose only 
 using namespace std;
 
 int n,k,low,high,mid; //no of elements, key to be searched, lowest, highest and middle index val respectively
