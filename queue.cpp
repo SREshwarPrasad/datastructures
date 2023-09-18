@@ -1,4 +1,4 @@
-//QUEUE WITH FLAW 
+//QUEUE PROBLEM RECTIFIED 
 
 #include<iostream>
 #define max 100
