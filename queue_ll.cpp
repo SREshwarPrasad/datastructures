@@ -32,10 +32,10 @@ void dequeue()
 	temp=f;
 	cout<<temp->val<<" deleted ";
 	f=f->next;
-	/*if (f==NULL)
+	if (f==NULL)
 	{
 		r=NULL;
-	}*/
+	}
 	delete temp;
 }
 void print()
