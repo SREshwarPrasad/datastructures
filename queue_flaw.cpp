@@ -1,4 +1,4 @@
-//QUEUE WITH FLAW 
+//QUEUE WITHOUT FLAW 
 
 #include<iostream>
 #define max 100
