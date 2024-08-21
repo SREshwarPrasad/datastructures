@@ -1,4 +1,5 @@
 // BINARY SEARCH USING RECURSION
+
 #include<iostream>
 #define max 100 //for aesthetic declaration purpose only 
 using namespace std;
