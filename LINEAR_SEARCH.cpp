@@ -1,3 +1,5 @@
+//LINEAR SEARCH USING RECURION
+
 #include<iostream>
 #define max 100
 using namespace std;
