@@ -1,4 +1,4 @@
-//infix to postfix
+//INFIX TO POSTFIX
 
 #include<iostream>
 #include<string.h>
